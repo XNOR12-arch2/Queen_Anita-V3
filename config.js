@@ -10,7 +10,7 @@ global.nomerowner = ["94703090240"]
 // Apikey 
 
 global.skizo = 'X.N.O.R '
-global.casterix = 'X.N.O.R'
+global.casterix = 'X.N.O.R-MD'
 //watermark 
 global.packname = '*X.N.O.R*'
 global.author = 'QUEEN_ANITA-V3'
